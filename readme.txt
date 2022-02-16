@@ -1,4 +1,4 @@
-Sierpinski's Triangle by Brya Tait
+Sierpinski's Triangle by Bryan Tait
 
 makefile commands:
 
